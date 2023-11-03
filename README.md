@@ -3,9 +3,10 @@ Rust generator for the Mandelbrot set as found in Programming Rust - O'Reilly.
 
 ![image](https://github.com/PeterKaye0/MandelbrotSet/assets/143790185/3b12b345-874b-43ee-b329-8fe80ae5ab8a)
 
-Requires an installation of Rust as found here: https://rustup.rs/
 
-To run locally: 
+## To run locally: 
+
+Requires an installation of Rust as found here: https://rustup.rs/
 
 `cargo new mandelbrot`
 
