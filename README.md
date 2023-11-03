@@ -13,6 +13,8 @@ To run locally:
 
 Replace `cargo.toml` and `src/main.rs` with the versions here. 
 
+`cargo build --release`
+
 Run: `target/release/mandelbrot mandel.png 4000x3000 -1.20,0.35 -1,0.20` For the same image as linked. 
 
 Or adjust the arguements as desired.
